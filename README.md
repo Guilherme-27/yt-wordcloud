@@ -91,12 +91,6 @@ audio/                # Folder for saved audio files (e.g., one_small_step.mp3)
 
 ---
 
-## 📽️ Video Demonstration
-
-A short video (< 5 min) demonstrating the project and its features is included as part of the CS50P final submission.
-
----
-
 ## ✅ Notes
 
 * Whisper model used: "tiny" (for speed on CPU)
