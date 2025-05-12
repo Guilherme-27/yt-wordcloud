@@ -6,17 +6,21 @@ Final project for [CS50’s Introduction to Programming with Python](https://cs5
 
 **yt-wordcloud** is a Python application that:
 
-1. Accepts a YouTube video URL from the user
-2. Downloads the audio from the video in `.mp3` format
-3. Transcribes the audio using OpenAI's Whisper model (running locally)
-4. Generates a word cloud based on the transcribed text
+1. Accepts a YouTube video URL from the user  
+2. Downloads the audio from the video in `.mp3` format  
+3. Transcribes the audio using OpenAI's Whisper model (running locally)  
+4. Generates a word cloud based on the transcribed text  
 5. Saves the generated word cloud image as `wordcloud.png`
 
 This project showcases practical use of Python libraries such as `yt-dlp`, `whisper`, `matplotlib`, and `wordcloud`.
 
+---
+
+## 🖼️ Example Output
+
 ![Example Word Cloud](wordcloud.png)
 
-> Example generated from this video: [Fireship - 10 regrets of experienced programmers](https://www.youtube.com/watch?v=ehTIhQpj9ys)
+> Example generated from this video: [Fireship – 10 regrets of experienced programmers](https://www.youtube.com/watch?v=ehTIhQpj9ys)
 
 ---
 
