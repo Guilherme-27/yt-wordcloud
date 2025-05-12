@@ -2,6 +2,9 @@
 
 Final project for [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/), by Guilherme Gabriel.
 
+- 📽️ **Video URL**: [https://youtu.be/mCWomPyukAY](https://youtu.be/mCWomPyukAY)
+- 📝 **One-line Description**: A Python application that transcribes YouTube videos and generates word clouds from the spoken content.
+
 ## 📌 Project Description
 
 **yt-wordcloud** is a Python application that:
