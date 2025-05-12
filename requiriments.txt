@@ -1,0 +1,6 @@
+yt-dlp
+whisper
+torch
+matplotlib
+wordcloud
+pytest
