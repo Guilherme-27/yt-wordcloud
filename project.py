@@ -60,7 +60,7 @@ def generate_wordcloud(text):
     "ser", "estar", "ter", "fazer", "ir", "haver", "poder", "precisar", "querer"
     }
     stopwords.update(stopwords_pt)
-    
+
     wordcloud = WordCloud(width=1280,
     height=1024,
     background_color='white',
@@ -74,7 +74,7 @@ def generate_wordcloud(text):
     plt.figure(figsize=(14, 10))
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis('off')
-    plt.savefig("nuvem.png", dpi=300)
+    plt.savefig("wordcloud.png", dpi=300)
     plt.show()
 
 def main():
